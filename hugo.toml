@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "the archives of sean"
+theme = 'yinyang'
+
+[params]
+	headTitle = "sean's archives"

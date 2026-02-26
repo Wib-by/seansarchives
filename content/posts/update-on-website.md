@@ -1,7 +1,7 @@
 +++
 date = '2026-02-25T20:54:01+08:00'
 draft = false
-title = 'update on website'
+title = 'update-on-website'
 +++
 ## hello everyone!
 

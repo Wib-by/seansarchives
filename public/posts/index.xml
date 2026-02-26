@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on the archives of sean</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on the archives of sean</description>
+    <title>Posts on sean&#39;s archives</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on sean&#39;s archives</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Feb 2026 20:54:01 +0800</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Feb 2026 16:54:49 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test-blog</title>
+      <link>http://localhost:1313/posts/test-blog/</link>
+      <pubDate>Thu, 26 Feb 2026 16:54:49 +0800</pubDate>
+      <guid>http://localhost:1313/posts/test-blog/</guid>
+      <description>&lt;p&gt;hey there&lt;/p&gt;</description>
+    </item>
     <item>
       <title>update-on-website</title>
-      <link>https://example.org/posts/update-on-website/</link>
+      <link>http://localhost:1313/posts/update-on-website/</link>
       <pubDate>Wed, 25 Feb 2026 20:54:01 +0800</pubDate>
-      <guid>https://example.org/posts/update-on-website/</guid>
+      <guid>http://localhost:1313/posts/update-on-website/</guid>
       <description>&lt;h2 id=&#34;hello-everyone&#34;&gt;hello everyone!&lt;/h2&gt;&#xA;&lt;p&gt;i currently have lost acess to my website due to human error and have now invested time in learning &lt;strong&gt;hugo&lt;/strong&gt;. this will be a fresher start in comparison to the past three days of manually editing my files.&lt;/p&gt;</description>
     </item>
   </channel>

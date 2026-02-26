@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = "the archives of sean"
+title = "sean's archives"
 theme = 'yinyang'
 
 [params]

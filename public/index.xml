@@ -6,8 +6,15 @@
     <description>Recent content on sean&#39;s archives</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Feb 2026 21:05:04 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 13:34:29 +0800</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Therapy</title>
+      <link>https://example.org/posts/therapy/</link>
+      <pubDate>Sat, 28 Feb 2026 13:34:29 +0800</pubDate>
+      <guid>https://example.org/posts/therapy/</guid>
+      <description>&lt;h2 id=&#34;im-starting-therapy&#34;&gt;I&amp;rsquo;m starting therapy&lt;/h2&gt;&#xA;&lt;p&gt;After a conversation with my psychiatrist, it was concluded that I needed a nAch/TAT exam to have my motivation, energy, and short-term goals and prospects analyzed in order to aid theraputic processes to help my college journey. I have to admit, it sounds like a big step, but I&amp;rsquo;m all up for it anyway. Looking back at how I &amp;ldquo;fumbled&amp;rdquo; senior high school, this was my only hope of surviving college and my future programming career.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Life Update</title>
       <link>https://example.org/posts/life-update/</link>
